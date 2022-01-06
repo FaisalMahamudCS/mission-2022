@@ -1,0 +1,147 @@
+body{
+    font-family:'Poppins', sans-serif;
+
+}
+#mission-area{
+border-image: linear-gradient(salmon,tomato);
+border-image-slice: 1;
+border-left:4px solid;
+}
+#mission-h1-first{
+    color:rgb(255, 176, 30);
+ font-size: 30px;
+}
+#mission-h1{
+    font-size:30px;
+}
+.half-width{
+    width:50%;
+    padding-left:10px;
+}
+#port-image{
+    height: 420px;
+   
+    width:500px;
+
+}
+.flex-container{
+    display:flex;
+    margin-left:30px;
+}
+.explore-btn{
+    background-color: #FF5959;
+    padding:10px 40px;
+    text-decoration:none;
+    color:white;
+    border-radius: 4px;
+}
+
+#mission-span{
+    color:#FFAD5A;
+}
+#mission-center{
+    text-align: center;
+}
+.mymission{
+    display:flex;
+
+}
+ .third-width{
+     width:30%;
+ }
+ .img-width-sort {
+     width:30%;
+ }
+
+.missionbox1{
+    background-color: rgba(79, 157, 166, 0.322);
+    border-radius: 10px;
+    margin-left: 22px;
+    padding:15px;
+}
+.vission{
+    background-color: #ff595985;
+    border-radius: 10px;
+    margin-left: 22px;
+    padding:15px;
+}
+.goal{
+    background-color: #FFF4D6;
+    border-radius: 10px;
+    margin-left: 22px;
+    padding:15px;
+}
+.develop-section{
+
+
+
+    margin-top: 50px;
+}
+#coding-img{
+    width:300px;
+    height:300px;
+    margin-right: 60px;
+}
+.width-third{
+    width:70%;
+    margin-right: 50px;
+}
+
+.name{
+  
+    font-size:large;
+    height:40px;
+    width: 60%;
+    border-radius: 2%;
+    
+}
+.contact{
+    
+background-color:white;
+
+}
+.left{
+    width:50%;
+ 
+    
+    margin-right:90px;
+}
+.right{
+    width:50%;
+    margin-left:100px;
+    
+ 
+}
+.formspan{
+    text-align: center;
+    padding-right: 10px;
+}
+.portfolio-img{
+    width:30%;
+    height: 30%;
+}
+
+footer{
+    background-color:black;
+
+}
+#footer-span{
+   color: #FF5959;
+   text-align: center;
+}
+#footer-h1{
+    color:white;
+    text-align: center;
+}
+#footer-p{
+
+    color:whitesmoke;
+    text-align: center;
+}
+#global-community-id{
+    padding-left:30px;
+}
+.global-community{
+    padding-top: 50px;
+    padding-bottom: 50px;
+} 
